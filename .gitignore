@@ -1,0 +1,4 @@
+
+# Install script moves all configuration backup
+# files to this dir
+backups/
